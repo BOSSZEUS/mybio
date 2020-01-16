@@ -1,0 +1,16 @@
+h1{
+  justify-content: center;
+  text-align: center;
+  background-color: darkgray;
+}
+
+p {
+  text-align: right;
+}
+#name{
+  text-align: left;
+
+}
+#contact{
+  text-align: right;
+}
